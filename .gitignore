@@ -1,6 +1,11 @@
 *~
 *#
 *.o
+*.out
+*.log
+
+# LaTeX
+*.aux
 
 demo_dmp
 demo_raw
